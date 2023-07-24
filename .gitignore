@@ -1,0 +1,14 @@
+# OS generated files #
+######################
+.DS_Store
+__MACOSX
+
+# Jupiter Notebooks
+
+Mapa_coberturas_1.ipynb
+
+# Input and output data
+
+data
+Enviado_ClCircular
+output
